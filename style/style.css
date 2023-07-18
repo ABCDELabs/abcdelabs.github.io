@@ -465,6 +465,22 @@ table.instructors img {
 /*table.tas img {
     max-width: 80px;
 }*/
+
+.mentors img {
+    width: 180px;
+    height: 180px;
+    border-radius: 20%;
+    margin: 20px;
+    overflow: hidden;
+    object-fit: cover;
+    object-position: top;
+}
+.mentors p {
+    margin-top: -5px;
+    font-size: 17px;
+    font-weight:500;
+    
+}
     
 
 @media (max-width: 1024px) {
