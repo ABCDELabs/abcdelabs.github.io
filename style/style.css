@@ -286,6 +286,7 @@ td.calendar-section div {
 }
 .calendar-video, .calendar-slides{
     padding-left: 1%;
+    text-align: center;
 }
 
 .anchor {
